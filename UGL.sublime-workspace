@@ -105,6 +105,13 @@
 	},
 	"file_history":
 	[
+		"/D/Thibaut/Dev/Cpp/UGL/src/ugl.cpp",
+		"/D/Thibaut/Dev/Cpp/UGL/src/handler.cpp",
+		"/D/Thibaut/Dev/Cpp/UGL/UGL.sublime-project",
+		"/D/Thibaut/Dev/Cpp/protoSDL2/src/texture.cpp",
+		"/D/Thibaut/Dev/Cpp/protoSDL2/src/map.cpp",
+		"/D/Thibaut/Dev/Cpp/Prototype jeu exploration/explo.sublime-project",
+		"/D/Thibaut/Dev/Cpp/UGL/main.cpp",
 		"/D/Thibaut/Dev/Cpp/Prototype jeu exploration/res/map.json",
 		"/D/Thibaut/Dev/Cpp/Prototype jeu exploration/openGL.sublime-project",
 		"/D/Thibaut/Dev/Cpp/Prototype jeu exploration/include/texture.h",
@@ -193,7 +200,7 @@
 	},
 	"input":
 	{
-		"height": 40.0
+		"height": 41.0
 	},
 	"layout":
 	{
