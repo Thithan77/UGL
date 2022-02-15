@@ -31,9 +31,8 @@ private:
 	SDL_Event event;
 };
 int main(int argc,char* argv[]){
-	UGL game("Teeeeeest");
+	UGL game("Test de fou UGL");
 	mainHandler handler(&game);
-	handler.update();
 	game.mainLoop(&handler);
 	return 0;
 }
